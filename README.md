@@ -18,5 +18,6 @@ Installation With Docker
 4.) Run Docker image on your system.
 
 ```docker run -p 8888:8888 hunari/tensorflow-jupyter-notebook:latest```
+
 This will launch the Docker image on port 8888 for the Jupyter Notebook.
  
