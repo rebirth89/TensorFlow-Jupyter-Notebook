@@ -4,6 +4,4 @@ TensorFlow GPU accelerated Jupyter Notebook that is able to run on WSL and any L
 Installation With Docker
 --
 1.) Ensure that Docker is installed on your system.
-'''
-sudo apt install docker.io
-'''
+```sudo apt install docker.io```
